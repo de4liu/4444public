@@ -1,4 +1,9 @@
 
+<script type="text/javascript"
+
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+</script>
 # IDSC 4444 Final Exam Formula Sheet
 ## Association Rules
 **Support count** of an item set $X$: 
